@@ -1,0 +1,15 @@
+﻿  requestHandler.cpp
+C:\Users\matan\OneDrive\Desktop\Defnasive_project_Matan_Kasher\client\client\client\User.h(12,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\matan\OneDrive\Desktop\Defnasive_project_Matan_Kasher\client\client\client\User.h(12,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+C:\Users\matan\OneDrive\Desktop\Defnasive_project_Matan_Kasher\client\client\client\requestHandler.h(10,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Users\matan\OneDrive\Desktop\Defnasive_project_Matan_Kasher\client\client\client\requestHandler.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Users\matan\OneDrive\Desktop\Defnasive_project_Matan_Kasher\client\client\client\requestHandler.cpp(70,93): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\matan\OneDrive\Desktop\Defnasive_project_Matan_Kasher\client\client\client\requestHandler.cpp(75,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\matan\OneDrive\Desktop\Defnasive_project_Matan_Kasher\client\client\client\requestHandler.cpp(94,60): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\matan\OneDrive\Desktop\Defnasive_project_Matan_Kasher\client\client\client\requestHandler.cpp(169,6): warning C4101: 'flag': unreferenced local variable
+  Generating code
+  4 of 1321 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    31 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  client.vcxproj -> C:\Users\matan\OneDrive\Desktop\Defnasive_project_Matan_Kasher\client\client\x64\Release\client.exe
