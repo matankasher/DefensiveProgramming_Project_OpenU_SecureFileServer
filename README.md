@@ -1,25 +1,34 @@
-# C-Project-OpenU
+# DefensiveProgramming-Project-OpenU
 
-### Assembler machine
-### Semester 2022a - Final Project - Grade 100. 
+### Secure files storage server
+### Semester 2023a - Final Project - Grade 100. 
 
 ### Description
-Assembler machine , covert assembly code/file to 16 base code.
-
+Server System to Save files at the server side via secure communication  
+Client side at c++ , get client information , file to transfer , and port 
+connect to server-side at python , send request to new-connect/re-connect.
+the server create AES key, encrpyt it with public keyy of the client, send to client-side,
+the client side decrypt the AES with his own private key.
+with the AES key, the client encrypt the file he want to transfer.
+the server side decrypt the file , verify with CRC, and save it.
+### Server-Side
+- Python
+### Client-Side
+- C + +
 ### Input
-- assembly code/file
-### Output
-- assembly code after deployment marco file
-- 16 base code file
-- external label file 
-- data label file 
-
+- port file 
+- client file
+- file to save
 ### Methods
-- C
-- Pointers
-- Dynamic Memory Allocation
-- Reading and Creating File
-- MakeFile
+- C ++
+- Python
+- TCP/IP communication
+- Symmetric and asymmetric encryption
+- RSA keys
+- AES keys
+- SQLite
+- header and payload packs
+- CRC checksum
 ### Screenshots
 
 - Test file (input)
