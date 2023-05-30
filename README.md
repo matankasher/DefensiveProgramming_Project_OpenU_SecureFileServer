@@ -29,16 +29,5 @@ the server side decrypt the file , verify with CRC, and save it.
 - SQLite
 - header and payload packs
 - CRC checksum
-### Screenshots
 
-- Test file (input)
-<img src="/screenshots/run file.png" alt="main page"/>
-- Code after deployment marco
- <img src="/screenshots/after macro file.png" alt="main page"/>
-- 16 base code
-<img src="/screenshots/32 base code file.png" alt="main page"/>
-- External label
- <img src="/screenshots/extern file.png" alt="main page"/>
-- Data label file 
-<img src="/screenshots/data label file.png" alt="main page"/>
 
